@@ -1,0 +1,50 @@
+body {
+    background-size: cover;
+}
+.header {
+    font-size: 30px;
+    width: 100% ;
+    margin: 0;
+    font-family: ALGERIAN;
+    color: green;
+    box-shadow: 6px 6px 16px green;
+}
+#object_finder {
+width: 700px;
+border-radius: 10px;
+height: 40px;
+}
+
+#start {
+   font-size: 27px;
+   background-color: aquamarine ;
+   font-family: ALGERIAN;
+   color: orange;
+   border-radius: 20px;
+   width: 155px;
+   box-shadow: 6px 6px 16px yellow;
+}
+#status, #number_ob {
+    font-size: 27px;
+    font-family: ALGERIAN;
+    color: yellow;
+    border-radius: 20px;
+    box-shadow: 6px 6px 20px green;
+ }
+canvas {
+    border: 15px ridge blue;
+    border-radius: 20px;
+}
+
+ #foot {
+     bottom: 0;
+     position: fixed;
+     text-align: center;
+     width: 100%;
+     background-color: lightskyblue;
+     font-family: ALGERIAN;
+     color: lime;
+     height: 40px;
+     font-size: 30px;
+     box-shadow: -6px -6px 16px aqua;
+ }
